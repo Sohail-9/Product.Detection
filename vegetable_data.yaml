@@ -1,5 +1,5 @@
-train: ../D:/vegetable_dataset/Vegetable Images/train
-val: ../D:/vegetable_dataset/Vegetable Images/validation
+train: ../D:/Product.Detection/yolov5/Vegetable Images/train
+val: ../D:/Product.Detection/yolov5/Vegetable Images/validation
 
 nc: 15  # number of classes (since there are 15 vegetable varieties)
 names: [
