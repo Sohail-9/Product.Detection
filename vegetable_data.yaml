@@ -1,0 +1,21 @@
+train: ../D:/vegetable_dataset/Vegetable Images/train
+val: ../D:/vegetable_dataset/Vegetable Images/validation
+
+nc: 15  # number of classes (since there are 15 vegetable varieties)
+names: [
+  'Bean',
+  'Bitter_Gourd',
+  'Bottle_Gourd',
+  'Brinjal',
+  'Broccoli',
+  'Cabbage',
+  'Capsicum',
+  'Carrot',
+  'Cauliflower',
+  'Cucumber',
+  'Papaya',
+  'Potato',
+  'Pumpkin',
+  'Radish',
+  'Tomato'
+]
